@@ -1,7 +1,7 @@
 'use client'
 import Image from 'next/image'
 import React, { useState } from 'react'
-import Logo from '../../public/logo.png';
+import Logo from '../../../public/logo.png';
 import { CSSTransition } from "react-transition-group";
 
 const Navbar = () => {

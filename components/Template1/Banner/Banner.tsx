@@ -1,6 +1,6 @@
 'use client'
 import React from "react";
-import BannerImage from "../../public/banner.jpg";
+import BannerImage from "../../../public/banner.jpg";
 
 const Banner = () => {
 

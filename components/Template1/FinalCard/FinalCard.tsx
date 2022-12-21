@@ -1,7 +1,7 @@
 'use client'
 
 import React from 'react';
-import CardImage from '../../public/cardImage.jpg';
+import CardImage from '../../../public/cardImage.jpg';
 
 const FinalCard = () => {
     return (

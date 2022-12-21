@@ -1,9 +1,9 @@
 'use client'
 
 import React from 'react';
-import Collage3 from '../../public/collage3.jpg';
-import Collage4 from '../../public/collage4.jpg';
-import Collage5 from '../../public/collage5.jpg';
+import Collage3 from '../../../public/collage3.jpg';
+import Collage4 from '../../../public/collage4.jpg';
+import Collage5 from '../../../public/collage5.jpg';
 
 const Collage2 = () => {
     return (
